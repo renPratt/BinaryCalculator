@@ -3,8 +3,6 @@ package p;
 /**
  * Class with methods to implement the basic arithmetic operations by operating
  * on bit fields.
- *
- * This is the skeleton code form COMP2691 Assignment #2.
  */
 public class BinaryCalculator {
 	
