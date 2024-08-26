@@ -3,7 +3,9 @@ package p;
 /**
  * Class with methods to implement the basic arithmetic operations by operating
  * on bit fields.
+ * @author Ren Pratt
  */
+
 public class BinaryCalculator {
 	
 	//I only made the one helper method but I felt like my code was relatively concise despite that so I hope that is alright :)
